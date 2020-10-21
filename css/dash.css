@@ -1,0 +1,16 @@
+.title{
+    background-color: aqua;
+    padding: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+    
+    
+}
+.dashboard{
+     background-color: burlywood;
+    padding: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size: 20px;
+    color: brown;
+}
